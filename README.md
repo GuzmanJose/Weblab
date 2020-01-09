@@ -1,16 +1,9 @@
 # CIM111 Weblab - Spring 2020
 
-### Instructors
+### Instructor
 
-Section 32 - Zevensuy Rodriguez MW 10:10-11:25AM Wolfson 4027 [Class Site]()
-
-Section 34 - Lenny Martinez Dominguez MW 12:20-1:35PM Wolfson 3040 [Class Site]()
-
-Section J - Eliot Rodriguez MW 5:05-6:20PM Wolfson 3035 [Class Site]()
 
 Section 56 - Jose Guzman Fierro TuTh 2:00-3:15PM Comm Intl 2055 [Class Site]()
-
-Section R - Kim Grinfeder TuTh 2:00-3:15PM Wolfson 3034 [Class Site]()
 
 
 # Resourses
@@ -22,6 +15,8 @@ Section R - Kim Grinfeder TuTh 2:00-3:15PM Wolfson 3034 [Class Site]()
 ## Calendar
 
 ### [Week 1 - Introduction to Web](https://github.com/UMInteractive/Weblab/blob/master/notes/1-Intro-to-the-WWW.md)
+  * Bullet list
+    * Nested Bulled list
 
 ### [Week 2 -Setting up your environment and Intro to HTML](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
 
