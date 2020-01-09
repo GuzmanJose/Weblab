@@ -3,10 +3,12 @@
 ### Instructor
 
 
-Section 56 - Jose Guzman Fierro TuTh 2:00-3:15PM Comm Intl 2055 [Class Site]()
+Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
+ * Email: jmg402@miami.edu
+ * cell
 
 
-# Resourses
+# Resources
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
 ###  [Syllabus](https://github.com/UMInteractive/Weblab/blob/master/CIM111-General-Weblab.pdf)
 ###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)
