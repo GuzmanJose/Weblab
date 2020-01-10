@@ -10,7 +10,7 @@ Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
 
 # Resources
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
-###  [Syllabus](https://github.com/UMInteractive/Weblab/blob/master/CIM111-General-Weblab.pdf)
+###  [Syllabus](https://github.com/GuzmanJose/Weblab/WebDesignSyllabus.pdf)
 ###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)
 ### [Tutoring](https://github.com/UMInteractive/Weblab/blob/master/notes/Tutoring.md)
 
