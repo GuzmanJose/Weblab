@@ -10,17 +10,17 @@ Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
 
 # Resources
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
-###  [Syllabus](https://github.com/GuzmanJose/Weblab/WebDesignSyllabus.pdf)
+###  [Syllabus](hhttps://github.com/GuzmanJose/Weblab/blob/master/WebDesignSyllabus.pdf)
 ###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)
 ### [Tutoring](https://github.com/UMInteractive/Weblab/blob/master/notes/Tutoring.md)
 
 ## Calendar
 
 ### [Week 1 - Introduction to Web (Jan 14th – Jan16th)](https://github.com/UMInteractive/Weblab/blob/master/notes/1-Intro-to-the-WWW.md)
-  * [Web Design](https://github.com/GuzmanJose/Weblab/Lecture/WebDesign.md)
+  <!-- * [Web Design](https://github.com/GuzmanJose/Weblab/blob/master/Lecture/WebDesign.md) -->
 
 ### [Week 2 -Setting up your environment and Intro to HTML (Jan 21st – Jan 23rd)](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
-  * [Editors & (Git)hub](https://github.com/GuzmanJose/Weblab/Lecture/TextEditor&Github.md)
+  <!-- * [Editors & (Git)hub](https://github.com/GuzmanJose/Weblab/blob/master/Lecture/TextEditor%26Github.md) -->
 ### [Week 3 - HTML Continued (Jan 28th – Jan 30th)](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 
 ### [Week 4 - CSS (Feb 4th - Feb 6th)](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
