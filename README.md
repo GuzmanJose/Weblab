@@ -11,7 +11,7 @@ Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
 # Resources
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
 ###  [Syllabus](hhttps://github.com/GuzmanJose/Weblab/blob/master/WebDesignSyllabus.pdf)
-    ** All assignments must be submitted through [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a1a1b2d0bc3ff432aa78f87dcce653368%40thread.skype/conversations?groupId=b79988a2-0e47-484b-8697-68a8fe6982fc&tenantId=2a144b72-f239-42d4-8c0e-6f0f17c48e33) **
+ ** All assignments must be submitted through [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a1a1b2d0bc3ff432aa78f87dcce653368%40thread.skype/conversations?groupId=b79988a2-0e47-484b-8697-68a8fe6982fc&tenantId=2a144b72-f239-42d4-8c0e-6f0f17c48e33) **
 ###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)
 
 ### [Tutoring](https://github.com/UMInteractive/Weblab/blob/master/notes/Tutoring.md)
@@ -21,11 +21,11 @@ Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
 ### [Week 1 - Introduction to Web (Jan 14th – Jan16th)](https://github.com/UMInteractive/Weblab/blob/master/notes/1-Intro-to-the-WWW.md)
  * [Slides](https://github.com/UMInteractive/Weblab/blob/master/notes/1-Intro-to-the-WWW.md)
  * [code-pen Example](https://codepen.io/guzmanjose/pen/vYEzBZY)
-  * [Reading](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+   * [Reading](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
 ### [Week 2 -Setting up your environment and Intro to HTML (Jan 21st – Jan 23rd)](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
  * [Create github Account](https://github.com)
- * [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
+   * [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
  * [Download Atom & Watch video](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)  
 ### [Week 3 - HTML Continued (Jan 28th – Jan 30th)](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 
