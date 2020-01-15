@@ -25,7 +25,8 @@ Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
 ### [Week 2 -Setting up your environment and Intro to HTML (Jan 21st – Jan 23rd)](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
  * [Create github Account](https://github.com)
    * [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
- * [Download Atom & Watch video](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)  
+ * [Download Atom & Watch video](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
+ * [Push your first Repo](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)  
 ### [Week 3 - HTML Continued (Jan 28th – Jan 30th)](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 
 ### [Week 4 - CSS (Feb 4th - Feb 6th)](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
