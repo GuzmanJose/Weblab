@@ -12,7 +12,7 @@ Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
 ###  [Syllabus](hhttps://github.com/GuzmanJose/Weblab/blob/master/WebDesignSyllabus.pdf)
 ###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)
-        **All assignments must be submitted through** [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a1a1b2d0bc3ff432aa78f87dcce653368%40thread.skype/conversations?groupId=b79988a2-0e47-484b-8697-68a8fe6982fc&tenantId=2a144b72-f239-42d4-8c0e-6f0f17c48e33)
+**All assignments must be submitted through** [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a1a1b2d0bc3ff432aa78f87dcce653368%40thread.skype/conversations?groupId=b79988a2-0e47-484b-8697-68a8fe6982fc&tenantId=2a144b72-f239-42d4-8c0e-6f0f17c48e33)
 ### [Tutoring](https://github.com/UMInteractive/Weblab/blob/master/notes/Tutoring.md)
 
 ## Calendar
