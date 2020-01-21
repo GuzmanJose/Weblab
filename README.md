@@ -23,10 +23,11 @@ Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
    * [Reading](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
 ### [Week 2 -Setting up your environment and Intro to HTML (Jan 21st – Jan 23rd)](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
+ * [Atom](https://atom.io/)
+ * [Reading HTML basics](https://www.w3schools.com/html/html_intro.asp)
  * [Create github Account](https://github.com)
    * [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
- * [Download Atom & Watch video](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
- * [Push your first Repo](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)  
+ * [Push your first Repo](https://vimeo.com/251367070)  
 ### [Week 3 - HTML Continued (Jan 28th – Jan 30th)](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 
 ### [Week 4 - CSS (Feb 4th - Feb 6th)](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
