@@ -27,7 +27,7 @@ Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
  * [Reading HTML basics](https://www.w3schools.com/html/html_intro.asp)
  * [Create github Account](https://github.com)
    * [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
- * [Push your first Repo](https://vimeo.com/251367070)  
+ * [Push to Github Assignment](https://teams.microsoft.com/l/message/19:1a1b2d0bc3ff432aa78f87dcce653368@thread.skype/1579131257468?tenantId=2a144b72-f239-42d4-8c0e-6f0f17c48e33&groupId=b79988a2-0e47-484b-8697-68a8fe6982fc&parentMessageId=1579131257468&teamName=WebLab&channelName=General&createdTime=1579131257468)  
 ### [Week 3 - HTML Continued (Jan 28th – Jan 30th)](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 
 ### [Week 4 - CSS (Feb 4th - Feb 6th)](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
