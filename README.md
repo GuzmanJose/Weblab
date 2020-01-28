@@ -24,11 +24,12 @@ Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
 
 ### [Week 2 -Setting up your environment and Intro to HTML (Jan 21st – Jan 23rd)](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
  * [Atom](https://atom.io/)
- * [Reading HTML basics](https://www.w3schools.com/html/html_intro.asp)
+ * [Reading -HTML basics-](https://www.w3schools.com/html/html_intro.asp)
  * [Create github Account](https://github.com)
    * [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
  * [Push your first Repo](https://vimeo.com/251367070)  
 ### [Week 3 - HTML Continued (Jan 28th – Jan 30th)](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
+ * [ViewPort](https://www.w3schools.com/css/css_rwd_viewport.asp)
 
 ### [Week 4 - CSS (Feb 4th - Feb 6th)](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
 
