@@ -27,13 +27,13 @@ Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
  * [Reading -HTML basics-](https://www.w3schools.com/html/html_intro.asp)
  * [Create github Account](https://github.com)
    * [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
- * [Connecting Atom with Github](https://www.youtube.com/watch?v=6HsZMl-qV5k)
 ### [Week 3 - HTML Continued (Jan 28th – Jan 30th)](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
- * [ViewPort](https://www.w3schools.com/css/css_rwd_viewport.asp)
+ * [HTML Class example](https://github.com/GuzmanJose/test/blob/master/Class/index.html)
 
 ### [Week 4 - CSS (Feb 4th - Feb 6th)](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
 
 ### [Week 5 - Media Formats and Responsiveness (Feb 11th - Feb 13th)](https://github.com/UMInteractive/Weblab/blob/master/notes/4-Media-Queries.md)
+ * [ViewPort](https://www.w3schools.com/css/css_rwd_viewport.asp)
 
 ### [Week 6 - Layouts and Grid (Feb 18th - Feb 20th)](https://github.com/UMInteractive/Weblab/blob/master/notes/5-Layout.md)
 
