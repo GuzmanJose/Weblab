@@ -29,9 +29,8 @@ Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
    * [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 ### [Week 3 - HTML Continued (Jan 28th – Jan 30th)](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
  * [HTML Class example](https://github.com/GuzmanJose/test/blob/master/Class/index.html)
-
 ### [Week 4 - CSS (Feb 4th - Feb 6th)](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
-
+ * [CSS](https://wattenberger.com/blog/css-cascade)
 ### [Week 5 - Media Formats and Responsiveness (Feb 11th - Feb 13th)](https://github.com/UMInteractive/Weblab/blob/master/notes/4-Media-Queries.md)
  * [ViewPort](https://www.w3schools.com/css/css_rwd_viewport.asp)
 
