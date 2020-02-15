@@ -35,7 +35,7 @@ Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
  * [ViewPort](https://www.w3schools.com/css/css_rwd_viewport.asp)
 
 ### [Week 6 - Layouts and Grid (Feb 18th - Feb 20th)](https://github.com/UMInteractive/Weblab/blob/master/notes/5-Layout.md)
-
+  * [Class 6.1](https://drive.google.com/drive/folders/1vxdp3PVYWYh2VSEAfwVhGs9OV2tm1R5S?usp=sharing)
 ### [Week 7 - Responsive Website Lab (Feb 25th - Feb 27th)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
 
 ### [Week 8 - Intro to Javascript/jQuery (Mar 3rd - Mar 5th)](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
