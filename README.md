@@ -75,7 +75,7 @@ April 25-April 28 - Reading Days
 
 April 29- May 6 - FINAL EXAMS -->
 
-#### This is a general revised syllabus. Sections are at a different pace. Your instructor will set the date for when assignments are due. Instructors will set the structure of class time and lab sessions.
+
 
 
 ### Week of March 23rd
