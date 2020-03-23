@@ -82,9 +82,9 @@ April 29- May 6 - FINAL EXAMS -->
 
 * Finish [Responsive/Midterm Assignment](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#responsive-site)
 * Start [javascript/jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+  * [Class 9](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
 
 ### Week of March 30th - [Continue jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
-  * [Class 9](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
 
 
 ### Week of April 6th - [jQuery Lab Session](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
