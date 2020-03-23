@@ -43,7 +43,9 @@ Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
   * [Class 7.1](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
 ### [Week 8 - Intro to Javascript/jQuery (Mar 3rd - Mar 5th)](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
   * [Class 8.1](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
+  * [Class 8.2](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
 ### [Week 9 - Javascript Continued (Mar 17th - Mar 19th)](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+  * [Class 9](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
 
 ### [Week 10 - jQuery Plugin (Mar 24th - Mar 26th)](https://github.com/UMInteractive/Weblab/blob/master/notes/7-jQuery-Plugins.md)
 
