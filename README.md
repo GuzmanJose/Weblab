@@ -44,7 +44,7 @@ Section 56 - Jose Guzman Fierro Tu-Th 2:00-3:15PM Comm Intl 2055
 ### [Week 8 - Intro to Javascript/jQuery (Mar 3rd - Mar 5th)](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
   * [Class 8.1](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
   * [Class 8.2](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
-### [Week 9 - Javascript Continued (Mar 17th - Mar 19th)](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+<!-- ### [Week 9 - Javascript Continued (Mar 17th - Mar 19th)](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
   * [Class 9](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
 
 ### [Week 10 - jQuery Plugin (Mar 24th - Mar 26th)](https://github.com/UMInteractive/Weblab/blob/master/notes/7-jQuery-Plugins.md)
@@ -73,4 +73,27 @@ April 24 - CLASSES END  (11:00 PM)
 
 April 25-April 28 - Reading Days
 
-April 29- May 6 - FINAL EXAMS
+April 29- May 6 - FINAL EXAMS -->
+
+#### This is a general revised syllabus. Sections are at a different pace. Your instructor will set the date for when assignments are due. Instructors will set the structure of class time and lab sessions.
+
+
+### Week of March 23rd
+
+* Finish [Responsive/Midterm Assignment](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#responsive-site)
+* Start [javascript/jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+
+### Week of March 30th - [Continue jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+  * [Class 9](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
+
+
+### Week of April 6th - [jQuery Lab Session](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+
+### Week of April 13th - [Final Project Introduction](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
+
+### Week of April 20th – [Final Project Check-in](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
+
+### Week of April 27th - [Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
+
+### Week of May 4th - [Final Projects Due](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
+* Spring semester concludes on May 6
