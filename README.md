@@ -86,6 +86,8 @@ April 29- May 6 - FINAL EXAMS -->
   * [Class 9-2](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
 
 ### Week of March 30th - [Continue jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+* [Class 10](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
+* [Class 10-2](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
 
 
 ### Week of April 6th - [jQuery Lab Session](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
