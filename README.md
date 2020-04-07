@@ -91,7 +91,7 @@ April 29- May 6 - FINAL EXAMS -->
 
 
 ### Week of April 6th - [jQuery Lab Session](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
-
+* [Class 11](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
 ### Week of April 13th - [Final Project Introduction](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
 
 ### Week of April 20th – [Final Project Check-in](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
