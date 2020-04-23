@@ -98,6 +98,7 @@ April 29- May 6 - FINAL EXAMS -->
 * [Class 12-2](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
 ### Week of April 20th – [Final Project Check-in](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
 * [Class 13](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
+* [Class 13-2](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
 
 ### Week of April 27th - [Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
 
