@@ -101,6 +101,7 @@ April 29- May 6 - FINAL EXAMS -->
 * [Class 13-2](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
 
 ### Week of April 27th - [Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
+* [Class 14](https://drive.google.com/drive/folders/1-hMWh1nvW9X6kohw1_ADzhkNq3WqKqLy?usp=sharing)
 
 ### Week of May 4th - [Final Projects Due](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
 * Spring semester concludes on May 6
